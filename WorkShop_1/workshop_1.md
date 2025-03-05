@@ -45,7 +45,8 @@
 ## Вставлені зображення
 
 Оригінал фото:
-![Оригінал](/Images/image.jpg)
+![Оригінал](Images/image.jpg)
+
 
 Стиснена версія:
 ![Стиснене](/Images/image_compressed.webp)
