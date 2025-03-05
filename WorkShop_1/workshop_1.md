@@ -49,7 +49,7 @@
 
 
 Стиснена версія:
-![Стиснене](Images/image_compressed.webp)
+![Стиснене](Images/imageCompress.webp)
 
 Оригінал cкріншоту:
 
@@ -66,6 +66,55 @@
 Стиснена версія:
 
 ![Стиснене](Images/graphicimagewithtextCompress.webp)
+
+Фото для вебу:
+
+![Фото](Images/image1200.webp)
+
+Скріншот для вебу:
+
+![Фото](Images/Screen1200w.jpg)
+
+Графічне зображення з текстом для вебу:
+
+![Фото](Images/GraphicImageWithText1200w.jpg)
+
+Фото для телефону:
+
+![Фото](Images/image600.webp)
+
+Скріншот для телефону:
+
+![Фото](Images/Screen600w.jpg)
+
+Графічне зображення з текстом для телефону:
+
+![Фото](Images/GraphicImageWithText600w.jpg)
+
+Фото для Retina-дисплеїв 2х:
+
+![Фото](Images/image200%.webp)
+
+Скріншот для Retina-дисплеїв 2х:
+
+![Фото](Images/Screen200%preset.jpg)
+
+Графічне зображення з текстом для Retina-дисплеїв 2х:
+
+![Фото](GraphicImageWithText200%preset.jpg)
+
+Фото для Retina-дисплеїв 3х:
+
+![Фото](Images/image300%.webp)
+
+Скріншот для Retina-дисплеїв 3х:
+
+![Фото](Images/Screen300%preset.jpg)
+
+Графічне зображення з текстом для Retina-дисплеїв 3х:
+
+![Фото](Images/GraphicImageWithText300%preset.jpg)
+
 
 ## Висновки
 
@@ -86,4 +135,5 @@
 
 ## Розміщення звіту
 Файли розміщено у GitHub-репозиторії:
+[Перейти в папку Images](https://github.com/Xoxxma/UI-UX-WORKSHOP/tree/main/WorkShop_1/Images)
 
