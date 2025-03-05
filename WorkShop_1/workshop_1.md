@@ -49,23 +49,23 @@
 
 
 Стиснена версія:
-![Стиснене](/Images/image_compressed.webp)
+![Стиснене](Images/image_compressed.webp)
 
 Оригінал cкріншоту:
 
-![Оригінал](/Images/screen.png)
+![Оригінал](Images/screen.png)
 
 Стиснена версія:
 
-![Стиснене](/Images/image_compressed.webp)
+![Стиснене](Images/image_compressed.webp)
 
 Оригінал графічного зображення з текстом:
 
-![Оригінал](/Images/graphicimagewithtext.png)
+![Оригінал](Images/graphicimagewithtext.png)
 
 Стиснена версія:
 
-![Стиснене](/Images/image_compressed.webp)
+![Стиснене](Images/image_compressed.webp)
 
 ## Висновки
 
