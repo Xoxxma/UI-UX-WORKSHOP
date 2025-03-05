@@ -45,26 +45,26 @@
 ## Вставлені зображення
 
 Оригінал фото:
-![Оригінал](WorkShop_1/Images/image.jpg)
+![Оригінал](/Images/image.jpg)
 
 Стиснена версія:
-![Стиснене](WorkShop_1/Images/image_compressed.webp)
+![Стиснене](/Images/image_compressed.webp)
 
 Оригінал cкріншоту:
 
-![Оригінал](WorkShop_1/Images/screen.png)
+![Оригінал](/Images/screen.png)
 
 Стиснена версія:
 
-![Стиснене](WorkShop_1/Images/image_compressed.webp)
+![Стиснене](/Images/image_compressed.webp)
 
 Оригінал графічного зображення з текстом:
 
-![Оригінал](WorkShop_1/Images/graphicimagewithtext.png)
+![Оригінал](/Images/graphicimagewithtext.png)
 
 Стиснена версія:
 
-![Стиснене](WorkShop_1/Images/image_compressed.webp)
+![Стиснене](/Images/image_compressed.webp)
 
 ## Висновки
 
