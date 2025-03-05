@@ -57,7 +57,7 @@
 
 Стиснена версія:
 
-![Стиснене](Images/image_compressed.webp)
+![Стиснене](Images/screenCompress65%.webp)
 
 Оригінал графічного зображення з текстом:
 
