@@ -65,7 +65,7 @@
 
 Стиснена версія:
 
-![Стиснене](Images/image_compressed.webp)
+![Стиснене](Images/graphicimagewithtextCompress.webp)
 
 ## Висновки
 
