@@ -20,7 +20,7 @@
 |-------------|--------|------------|--------------|--------------|----------------|
 | image.jpg | WebP | 1920x1080 | 1.34 MB | 0.45 MB | -66% |
 | screen.png | AVIF | 1365x768 | 2.54 MB | 0.38 MB | -85% |
-| graphicimagewithtext.png | WebP | 1200x1232 | ? MB | ? MB | ? |
+| graphicimagewithtext.png | WebP | 852x875 | ? MB | ? MB | ? |
 
 ## Адаптація зображень
 
