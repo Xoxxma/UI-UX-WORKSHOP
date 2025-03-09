@@ -93,7 +93,7 @@
 
 Фото для Retina-дисплеїв 2х:
 
-![Фото]( Images/image200%.webp)
+![Фото]( Images/image200%.webp )
 
 Скріншот для Retina-дисплеїв 2х:
 
