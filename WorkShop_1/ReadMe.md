@@ -93,28 +93,15 @@
 
 Фото для Retina-дисплеїв 2х:
 
-![Фото](Images/image200%.webp)
+![Фото]( Images/image200%.webp)
 
 Скріншот для Retina-дисплеїв 2х:
 
-![Фото](Images/Screen200%preset.jpg)
+![Фото]( Images/Screen200%preset.jpg )
 
 Графічне зображення з текстом для Retina-дисплеїв 2х:
 
-![Фото](GraphicImageWithText200%preset.jpg)
-
-Фото для Retina-дисплеїв 3х:
-
-![Фото](Images/image300%.webp)
-
-Скріншот для Retina-дисплеїв 3х:
-
-![Фото](Images/Screen300%preset.jpg)
-
-Графічне зображення з текстом для Retina-дисплеїв 3х:
-
-![Фото](Images/GraphicImageWithText300%preset.jpg)
-
+![Фото]( Images/GraphicImageWithText200%preset.jpg )
 
 ## Висновки
 
