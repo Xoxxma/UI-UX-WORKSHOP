@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c52ffffe-1487-4c96-ad50-da96acbe0528)# 🎨 Практичне заняття №10  
+🎨 Практичне заняття №10  
 ## Дослідження кольорових гармоній та інструментів аналізу кольору в Adobe Color
 
 ### 📌 Мета заняття
@@ -42,46 +42,49 @@
 Нижче — палітри для кожного типу гармонії:
 
 #### 🟢 Analogous  
-![analogous](![image](https://github.com/user-attachments/assets/39202b94-460f-4fac-bf40-7058d9458c2f))  
+![image](https://github.com/user-attachments/assets/822cae0f-8248-4a10-8378-70ccfa5430aa)
 **Коментар:** Поєднання сусідніх кольорів. Дає гармонійний, м’який ефект.
 
 #### 🔵 Monochromatic  
-![monochromatic](![image](https://github.com/user-attachments/assets/87aabc0e-7578-4df7-a91e-38b62f5a792e))  
+![image](https://github.com/user-attachments/assets/f6d57720-e6ef-4df4-8c88-238408612a12)
 **Коментар:** Варіації одного кольору. Чистий, стриманий вигляд.
 
 #### 🔺 Triad  
-![triad](![image](https://github.com/user-attachments/assets/8462b22f-1a82-4b08-9752-b4bb43125d37))  
+![image](https://github.com/user-attachments/assets/af39c91f-2d02-468b-bf03-abaf1b9c7b34)
 **Коментар:** Три рівновіддалені кольори. Створює динаміку та баланс.
 
 #### 🟥 Complementary  
-![complementary](![image](https://github.com/user-attachments/assets/16f7f153-c85f-4497-adc9-b0f363817c7f))  
+![image](https://github.com/user-attachments/assets/9aa644f4-be8f-40cf-bd14-9452f579ed13)
 **Коментар:** Протилежні кольори. Контрастний, помітний ефект.
 
 #### 🟠 Split Complementary  
-![split_complementary](![image](https://github.com/user-attachments/assets/0ea98b73-9610-4e8f-a023-cdb32197c023))  
+![image](https://github.com/user-attachments/assets/2353f904-8769-4bfc-8055-fdc26bf78c0a)
 **Коментар:** Базовий + два сусідні до протилежного. Менше напруги, але динаміка зберігається.
 
 #### 🟪 Square  
-![square](![image](https://github.com/user-attachments/assets/60c47fa5-2d5d-4f24-90c7-473fdb9fa881))  
+![image](https://github.com/user-attachments/assets/a119aec0-e432-4c10-83c1-c8b632f5a38f)
 **Коментар:** Чотири кольори на однаковій відстані. Різноманіття та збалансованість.
 
 #### ⚙️ Custom  
-![custom](![image](https://github.com/user-attachments/assets/b565f581-7daf-4466-9ec4-b126f3e64042))  
+![image](https://github.com/user-attachments/assets/949c8004-cd30-41c9-8ea4-de7c85f13d30)
+ 
 **Коментар:** Власна побудова. Враховує емоції, бренд, стиль.
 
 ---
 
 ### 🖼️ 2. Extract Theme
 
-**Зображення:** `![image](https://github.com/user-attachments/assets/baf2f568-5b2d-4a59-a9d9-2ae8a2aba91e)`
+**Зображення:** 
+![image](https://github.com/user-attachments/assets/baf2f568-5b2d-4a59-a9d9-2ae8a2aba91e)
 
 #### 🌈 Варіант: Colorful  
-![theme_colorful](![image](https://github.com/user-attachments/assets/9accd36a-f048-4b55-a04a-f853c3a25e65)
-)  
+![image](https://github.com/user-attachments/assets/f49dffa3-f2ed-45ea-8730-486f3637b287)
+
 **Опис:** Яскрава палітра. Добре для промо-сторінок.
 
 #### 🌫️ Варіант: Muted  
-![theme_muted](![image](https://github.com/user-attachments/assets/f38c1dd6-46ba-4fa8-ad69-f3898384415e))  
+![image](https://github.com/user-attachments/assets/b4b9f351-7f3a-479e-838a-d7f6c99e593c)
+
 **Опис:** Спокійна палітра. Краще підходить для інтерфейсу.  
 **Висновок:** Обрана Muted — менш нав'язлива, краще читається.
 
@@ -89,7 +92,8 @@
 
 ### 🌅 3. Extract Gradient
 
-![gradient](![image](https://github.com/user-attachments/assets/b1e090ae-a441-46f1-b483-3afe6cd69202))  
+![image](https://github.com/user-attachments/assets/4b913ce3-7450-4b9a-a4f3-9644332ceeb7)
+
 **Опис:** Побудовано градієнт із трьома точками. Використовує палітру з зображення.
 
 ---
@@ -97,7 +101,8 @@
 ### ♿ 4. Аналіз контрасту (Accessibility Tools)
 
 **Пара кольорів:** Текст `#000000` на фоні `#F4F4F4`  
-![contrast](![image](https://github.com/user-attachments/assets/c0ba4db9-63f9-4331-ba65-2024b9e7679e))  
+![image](https://github.com/user-attachments/assets/e6930cbd-7973-4f0b-a061-ef7fd1a92124)
+
 - **Контрастність:** 9.07 : 1 
 - **Результат:** ✅ Проходить для AA і AAA  
 - **Якщо не проходить:** використано корекцію, скрін нижче  
